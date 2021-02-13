@@ -22,7 +22,7 @@ function App() {
   };
 
   return (
-    <div className="h-screen text-center text-blue-100 bg-blue-50 bg-pattern bg-no-repeat bg-auto lg:bg-contain">
+    <div className="h-screen text-center text-blue-100 bg-blue-50 bg-pattern bg-no-repeat bg-10050">
       <div className="flex flex-col">
         <div className="my-8 align-middle bg-circles bg-no-repeat bg-center min-h-min flex flex-col justify-center h-40 sm:my-20">
           <p className="z-10 text-2xl font-extrabold text-blue-200 mb-3 sm:text-4xl">

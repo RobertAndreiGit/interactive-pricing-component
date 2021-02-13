@@ -38,6 +38,9 @@ module.exports = {
       spacing: {
         600: "600px",
       },
+      backgroundSize: {
+        10050: "100% 50%",
+      },
     },
   },
   variants: {

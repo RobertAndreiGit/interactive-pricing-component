@@ -47,7 +47,7 @@ input[type=range]::-moz-range-thumb {
   width: 35px;
   border-radius: 50%;
   box-shadow: 0px 15px 13px 4px rgba(16,213,194,.5);
-  background: url('./imgs//icon-slider.svg') #a5f3eb;
+  background: url('./imgs//icon-slider.svg') #10d5c2;
   background-repeat: no-repeat;
   background-position: center;
 }
