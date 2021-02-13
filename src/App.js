@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { ReactComponent as CheckSVG } from "./imgs/icon-check.svg";
-import { ReactComponent as CirclesSVG } from "./imgs/pattern-circles.svg";
 
 function App() {
   const [views, setViews] = useState(250);
